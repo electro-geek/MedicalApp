@@ -1,0 +1,24 @@
+{
+  "working_hours": {
+    "monday": {"start": "09:00", "end": "17:00"},
+    "tuesday": {"start": "09:00", "end": "17:00"},
+    "wednesday": {"start": "09:00", "end": "17:00"},
+    "thursday": {"start": "09:00", "end": "17:00"},
+    "friday": {"start": "09:00", "end": "17:00"},
+    "saturday": {"start": "09:00", "end": "13:00"},
+    "sunday": null
+  },
+  "booked_appointments": [
+    {
+      "date": "2024-01-16",
+      "start_time": "14:00",
+      "end_time": "14:30"
+    },
+    {
+      "date": "2024-01-17",
+      "start_time": "10:00",
+      "end_time": "11:00"
+    }
+  ]
+}
+

@@ -1,0 +1,30 @@
+{
+  "clinic_details": {
+    "location": "123 Health St, Wellness City, NY 10001",
+    "directions": "We are located on Health St between 1st and 2nd Ave. Easily accessible via the A/C/E subway lines at Wellness Station.",
+    "parking": "Paid parking is available in the garage next to our building. Limited street parking is also available.",
+    "hours_of_operation": "Monday-Friday: 8:00 AM - 6:00 PM. Saturday: 9:00 AM - 1:00 PM. Sunday: Closed."
+  },
+  "insurance_billing": {
+    "accepted_providers": [
+      "Blue Cross Blue Shield",
+      "Aetna",
+      "Cigna",
+      "UnitedHealthcare",
+      "Medicare"
+    ],
+    "payment_methods": "We accept all major credit cards, checks, and cash. Co-pays are due at the time of service.",
+    "billing_policies": "For any billing questions, please contact our billing department directly at (555) 123-4568."
+  },
+  "visit_preparation": {
+    "required_documents": "Please bring a valid photo ID and your current insurance card to every visit.",
+    "first_visit_procedures": "If this is your first visit, please arrive 15 minutes early to complete new patient paperwork. You can also download the forms from our website.",
+    "what_to_bring": "Bring your ID, insurance card, a list of any current medications you are taking, and any relevant medical records."
+  },
+  "policies": {
+    "cancellation_policy": "We require at least 24 hours' notice for all cancellations. A fee may be charged for late cancellations or no-shows.",
+    "late_arrival_policy": "If you arrive more than 15 minutes late for your appointment, we may need to reschedule you.",
+    "covid_19_protocols": "Masks are required for all patients and staff within the clinic. If you are experiencing fever or cough, please call us before your appointment."
+  }
+}
+
